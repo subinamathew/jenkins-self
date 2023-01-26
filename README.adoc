@@ -1,0 +1,7 @@
+= Modified Jenkin
+
+The aim is to build Jenkins on a local instance.
+
+We recommend Gitpod as a developement environment. 
+
+https://gitpod.io/#https://github.com/subinamathew/jenkins-self[Open in Gitpod]
